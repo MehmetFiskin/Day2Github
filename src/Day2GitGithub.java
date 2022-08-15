@@ -15,5 +15,9 @@ göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak
             git push -u origin master
 Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
+
+
+
+ deneme
  */
 }
