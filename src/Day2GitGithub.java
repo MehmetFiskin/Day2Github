@@ -16,7 +16,7 @@ göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak
 Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
 
-
+Not: git log --oneline --> Commitlerimdeki yani versiyonlarimdaki durumu gosterir.
 
 
  */
