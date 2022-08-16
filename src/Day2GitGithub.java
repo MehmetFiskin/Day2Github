@@ -9,7 +9,7 @@ içindeki dosyaları ilişkilendirmek için kullanılır
 4-) git commit -m "mesaj" --> Staging area'dan commit stora
 dosyalarımı göndermek için kullanılır (commit yani versiyon
 yani sürüm oluşturmuş olurum)
-5g-) git push --> Uzak repo'ya(yani remote - Github)
+5-) git push --> Uzak repo'ya(yani remote - Github)
 göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak istersek 1 kez
             git remote add origin adres
             git push -u origin master
@@ -18,6 +18,6 @@ kullanırız
 
 
 
- deneme
+
  */
 }
