@@ -13,6 +13,7 @@ yani sürüm oluşturmuş olurum)
 göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak istersek 1 kez
             git remote add origin adres
             git push -u origin master
+6-) git pull --> Remote (yani uzak repo ) dosyalarimizi guncellemek icin kullanilir.
 Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
 
