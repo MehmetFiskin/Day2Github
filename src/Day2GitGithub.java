@@ -1,3 +1,5 @@
+package Day2Github.src;
+
 public class Day2GitGithub {
 
     /*
